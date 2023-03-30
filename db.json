@@ -5,6 +5,7 @@
       "message": "Changed hard drive on workstation 005",
       "attention": false,
       "date": "28-03-2023",
+      "time": "12:00pm",
       "tech": "Sam Smith"
     },
     {
@@ -12,13 +13,15 @@
       "message": "Workstation 007 not posting",
       "attention": true,
       "date": "28-03-2023",
+      "time": "12:00pm",
       "tech": "John Doe"
     },
     {
       "id": 3,
       "message": "Changed memory on workstation 050",
-      "attention": true,
+      "attention": false,
       "date": "28-03-2023",
+      "time": "12:00pm",
       "tech": "Mark David"
     }
   ],
