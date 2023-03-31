@@ -8,6 +8,14 @@ body {
 .white {
   background: #1f2a48 !important;
 }
+
+.collection-item {
+  border: 1px solid #1f2a4871;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 0 10px 10px 10px;
+}
+
 /* .App {
   text-align: center;
 }

@@ -38,9 +38,7 @@ const EditLogModal = () => {
               value={message}
               onChange={e => setMessage(e.target.value)}
             />
-            <label htmlFor='message' className='active'>
-              Log Message
-            </label>
+            <label htmlFor='message'>Log Message</label>
           </div>
         </div>
         <div className='row'>
